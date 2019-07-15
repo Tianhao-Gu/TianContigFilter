@@ -108,7 +108,7 @@ class TianContigFilter:
         print('Uploading filtered Assembly data.')
         new_assembly = assemblyUtil.save_assembly_from_fasta({'file': {'path': filtered_fasta_file},
                                                               'workspace_name': workspace_name,
-                                                              'assembly_name': fasta_file['assembly_name']
+                                                              'assembly_name': 'filtered_' + fasta_file['assembly_name']
                                                               })
 
         # Step 5 - Build a Report and return
