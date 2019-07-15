@@ -6,7 +6,7 @@ tooltip: |
     Filters the contigs by removing contigs below a length threshold
 screenshots: []
 
-icon: null
+icon: test_72pt-yellow.png
 
 #
 # define a set of similar methods that might be useful to the user
