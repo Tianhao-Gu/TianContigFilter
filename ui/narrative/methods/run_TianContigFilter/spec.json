@@ -4,7 +4,7 @@
         "tgu2"
     ],
     "contact": "https://kbase.us/contact-us/",
-    "categories": ["active"],
+    "categories": ["active", "demo"],
     "widgets": {
         "input": null,
         "output": "no-display"
